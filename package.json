@@ -1,0 +1,22 @@
+{
+  "name": "jsconstructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advisorrry/js-constructor.git"
+  },
+  "author": "Advisorrry <sypikeh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advisorrry/js-constructor/issues"
+  },
+  "homepage": "https://github.com/Advisorrry/js-constructor#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
